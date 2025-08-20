@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yajat777
-- 👀 I’m interested in trvelling
-- 🌱 I’m currently learning c/cpp
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @yajat721 <insta id>
 
